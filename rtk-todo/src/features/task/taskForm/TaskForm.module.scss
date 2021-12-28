@@ -1,5 +1,5 @@
 .root {
-  width: 30vw;
+  width: 100%;
   margin-bottom: 20px;
 
   .form {
@@ -8,7 +8,6 @@
     flex-direction: column;
 
     .text_field {
-      width: 100%;
       margin-right: 10px;
     }
 
